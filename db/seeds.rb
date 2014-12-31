@@ -29,3 +29,4 @@ AnswerChoice.where(text: "Deer", question_id: 3).first_or_create!
 AnswerChoice.where(text: "Otter", question_id: 3).first_or_create!
 AnswerChoice.where(text: "Gryffindor", question_id: 4).first_or_create!
 AnswerChoice.where(text: "Slytherin", question_id: 4).first_or_create!
+AnswerChoice.where(text: "Hufflepuff", question_id: 4).first_or_create!
